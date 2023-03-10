@@ -1,4 +1,4 @@
-# Week 1 Challange
+# Week 1 Challenge
 
 ## Project Description
 For the first week's challenge we were asked to work on starter code (Marketing Agency Website) and modify it. The purpose of the modification was to make the website more accesible. 
