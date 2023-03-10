@@ -18,3 +18,6 @@ While I was changing the index.html file I needed to make sure my new semantic e
 With the style.css file I also tried to simplify as it had a lot of code repetition going on. I merged the classes that affected the benefits column and merged the classes that will simplify the services sections. I used comments to hilight my updates.
 ## Technologies
 This project was made using HTML and CSS only.
+
+## Deployed Website
+You can see my deployed website here: https://ewagorka.github.io/bootcamp-week-1-challenge/
