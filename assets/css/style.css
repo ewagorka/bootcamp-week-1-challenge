@@ -112,6 +112,10 @@ classes with one service class to avoid code repetition*/
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* Change figure display, so it doesn't start on a new line*/
+figure {
+    display: inline;
+}
 /* Substituted .footer class with a footer element*/
 footer {
     padding: 30px;

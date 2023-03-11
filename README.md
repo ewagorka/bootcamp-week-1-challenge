@@ -21,3 +21,14 @@ This project was made using HTML and CSS only.
 
 ## Deployed Website
 You can see my deployed website here: https://ewagorka.github.io/bootcamp-week-1-challenge/
+
+## Deployed Website Screenshot
+![Deployed Website Screenshot]( assets/images/deployed-website-screenshot.png "Deployed Website Screenshot")
+
+## Credits
+
+Thanks to Laszlo for recommending to add a screenshot and alt element to icon in the footer :).
+Checkout Laszlo's approach: https://github.com/laszlosomogyimusic/bootcamp-module1-challenge
+
+## License
+Please refer to the LICENSE in the repo.
